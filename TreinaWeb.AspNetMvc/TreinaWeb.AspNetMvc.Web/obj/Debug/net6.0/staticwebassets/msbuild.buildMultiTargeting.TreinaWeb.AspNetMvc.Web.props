@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TreinaWeb.AspNetMvc.Web.props" />
+</Project>
