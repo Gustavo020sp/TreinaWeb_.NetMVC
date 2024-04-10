@@ -12,16 +12,25 @@
 @* Abaixo os parametros > to chamando index, do controler Test, por metodo POST(registrar os dados no servidor) *@
 @using (Html.BeginForm("Index", "Teste", FormMethod.Post))
 {
+	@*linha abaixo exibe a mensagem Required annotation declarada no index.cshtml*@
+	@Html.ValidationMessageFor(p => p.Name)
+	<br />	
 	@Html.LabelFor(p => p.Name)
 	@Html.TextBoxFor(p => p.Name, new { id = "txbName" })
 	<br />
 	<br />
 
+	@*linha abaixo exibe a mensagem Required annotation declarada no index.cshtml*@
+	@Html.ValidationMessageFor(p => p.Age)
+	<br />
 	@Html.LabelFor(p => p.Age)
 	@Html.TextBoxFor(p => p.Age, new {id = "txbAge"})
 	<br />
 	<br />
 
+	@*linha abaixo exibe a mensagem Required annotation declarada no index.cshtml*@
+	@Html.ValidationMessageFor(p => p.Address)
+	<br />
 	@Html.LabelFor(p => p.Address)
 	@Html.TextBoxFor(p => p.Address, new { id = "txtAddress" })
 	<br />
