@@ -18,7 +18,15 @@ namespace TreinaWeb.AspNetMvc.Web.Controllers
             //string name = person.Name;
             //ViewBag.Name = person.Name;
 
-			return View("Greetings", person);
+            //condição abaixo valida o lado servidor (não depende do javascript ativado no browser)
+            if (ModelState.IsValid)
+            {
+                return View("Greetings", person);
+            }
+            else 
+            {
+                return View(person); 
+            }   
             //comment here
 		}
 	}
