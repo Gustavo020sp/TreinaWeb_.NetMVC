@@ -1,5 +1,5 @@
-﻿@model TreinaWeb.AspNetMvc.Web.Controllers.TesteController
-
+﻿@model TreinaWeb.AspNetMvc.Web.Models.Person
+@*o model acima ja declara qual tipo  de objeto vai usar como referencia quando receber os parametros nas linhas abaixo*@
 @{
 	ViewData["Title"] = "WELCOME!";
 }
@@ -7,12 +7,28 @@
 <h2>@ViewData["Title"]</h2>
 <br />
 <br />
-<p>Digite seu nome: </p>
+<p>Digite suas informações: </p>
 
 @* Abaixo os parametros > to chamando index, do controler Test, por metodo POST(registrar os dados no servidor) *@
 @using (Html.BeginForm("Index", "Teste", FormMethod.Post))
 {
-	@Html.TextBox("Username", null, new {id = "txbName"})
+	@Html.LabelFor(p => p.Name)
+	@Html.TextBoxFor(p => p.Name, new { id = "txbName" })
+	<br />
+	<br />
+
+	@Html.LabelFor(p => p.Age)
+	@Html.TextBoxFor(p => p.Age, new {id = "txbAge"})
+	<br />
+	<br />
+
+	@Html.LabelFor(p => p.Address)
+	@Html.TextBoxFor(p => p.Address, new { id = "txtAddress" })
+	<br />
+	<br />
+
+
+	@* @Html.TextBox("Username", null, new {id = "txbName"}) *@
 	@*linha abaixo pode substituir pela de cima, trocando html por razor*@
 	@* <input type="text" id="txbName" name="Username"/> *@
 	<input type="submit" value="Submit"/>

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using TreinaWeb.AspNetMvc.Web.Models;
 
 namespace TreinaWeb.AspNetMvc.Web.Controllers
 {
@@ -12,10 +13,10 @@ namespace TreinaWeb.AspNetMvc.Web.Controllers
 
         //Metodo abaixo vai ser chamado pelo BeginForm, na view Index
         [HttpPost]
-		public IActionResult Index(IFormCollection iformCollection)
+		public IActionResult Index(Person person)
 		{
-            string name = iformCollection["Username"];
-			ViewBag.Name = name;
+            //string name = person.Name;
+            ViewBag.Name = person.Name;
 			return View("Greetings");
             //comment here
 		}
