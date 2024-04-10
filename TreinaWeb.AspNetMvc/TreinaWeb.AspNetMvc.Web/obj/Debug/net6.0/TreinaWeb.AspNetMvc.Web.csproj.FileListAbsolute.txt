@@ -28,3 +28,4 @@ D:\Projects\TreinaWeb_.NetMVC\TreinaWeb.AspNetMvc\TreinaWeb.AspNetMvc.Web\obj\De
 D:\Projects\TreinaWeb_.NetMVC\TreinaWeb.AspNetMvc\TreinaWeb.AspNetMvc.Web\obj\Debug\net6.0\TreinaWeb.AspNetMvc.Web.pdb
 D:\Projects\TreinaWeb_.NetMVC\TreinaWeb.AspNetMvc\TreinaWeb.AspNetMvc.Web\obj\Debug\net6.0\TreinaWeb.AspNetMvc.Web.genruntimeconfig.cache
 D:\Projects\TreinaWeb_.NetMVC\TreinaWeb.AspNetMvc\TreinaWeb.AspNetMvc.Web\obj\Debug\net6.0\ref\TreinaWeb.AspNetMvc.Web.dll
+D:\Projects\TreinaWeb_.NetMVC\TreinaWeb.AspNetMvc\TreinaWeb.AspNetMvc.Web\obj\Debug\net6.0\TreinaWeb.AspNetMvc.Web.sourcelink.json
