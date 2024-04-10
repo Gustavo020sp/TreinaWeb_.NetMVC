@@ -32,7 +32,15 @@
 	@Html.ValidationMessageFor(p => p.Address)
 	<br />
 	@Html.LabelFor(p => p.Address)
-	@Html.TextBoxFor(p => p.Address, new { id = "txtAddress" })
+	@Html.TextBoxFor(p => p.Address, new { id = "txbAddress" })
+	<br />
+	<br />
+
+	@*linha abaixo exibe a mensagem Required annotation declarada no index.cshtml*@
+	@Html.ValidationMessageFor(p => p.Email)
+	<br />
+	@Html.LabelFor(p => p.Email)
+	@Html.EditorFor(p => p.Email, new { id = "txbEmail" })
 	<br />
 	<br />
 

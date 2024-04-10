@@ -7,6 +7,8 @@ namespace TreinaWeb.AspNetMvc.Web.Models
 	{
 		[Required(ErrorMessage = "Name required")]
 		[DisplayName("Type person name: ")]
+		[MaxLength(20, ErrorMessage = "MAX 20 characters")]
+		[MinLength(5, ErrorMessage = "MIN 5 characters")]
 		public string Name { get; set; } = string.Empty;
 
 
@@ -19,12 +21,17 @@ namespace TreinaWeb.AspNetMvc.Web.Models
 
 		[Required(ErrorMessage = "Email required")]
 		[DisplayName("Type person Address: ")]
+		[MaxLength(20, ErrorMessage = "MAX 25 characters")]
+		[MinLength(5, ErrorMessage = "MIN 5 characters")]
 		public string Address { get; set; } = string.Empty;
 
 
 
-		[Required(ErrorMessage = "Email required")]
+		[Required(ErrorMessage = "Email required")]		
 		[DisplayName("Type person Email: ")]
+		[MaxLength(20, ErrorMessage = "MAX 20 characters")]
+		[MinLength(5, ErrorMessage = "MIN 5 characters")]
+		[DataType(DataType.EmailAddress)]
 		public string Email { get; set; } = string.Empty;
     }
 }
