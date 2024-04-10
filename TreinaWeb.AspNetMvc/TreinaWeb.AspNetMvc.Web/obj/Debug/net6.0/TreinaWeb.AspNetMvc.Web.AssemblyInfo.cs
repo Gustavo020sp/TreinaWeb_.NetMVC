@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TreinaWeb.AspNetMvc.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a8671028d4f215d7a6ab36f2d5dd0504229e780")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa014964130b1286d48c1cef644ac762f3c81f90")]
 [assembly: System.Reflection.AssemblyProductAttribute("TreinaWeb.AspNetMvc.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TreinaWeb.AspNetMvc.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

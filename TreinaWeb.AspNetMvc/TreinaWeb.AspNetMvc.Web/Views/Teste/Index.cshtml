@@ -12,7 +12,9 @@
 @* Abaixo os parametros > to chamando index, do controler Test, por metodo POST(registrar os dados no servidor) *@
 @using (Html.BeginForm("Index", "Teste", FormMethod.Post))
 {
-	<input type="text" id="txbName" name="Username"/>
+	@Html.TextBox("Username", null, new {id = "txbName"})
+	@*linha abaixo pode substituir pela de cima, trocando html por razor*@
+	@* <input type="text" id="txbName" name="Username"/> *@
 	<input type="submit" value="Submit"/>
 }
 
