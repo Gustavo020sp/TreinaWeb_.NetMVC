@@ -12,6 +12,9 @@
 @* Abaixo os parametros > to chamando index, do controler Test, por metodo POST(registrar os dados no servidor) *@
 @using (Html.BeginForm("Index", "Teste", FormMethod.Post))
 {
+	//TOKEN de segurança gerado pelo servidor para evitar páginas falsas(ex phishing) 
+	@Html.AntiForgeryToken()
+
 	@*linha abaixo exibe a mensagem Required annotation declarada no index.cshtml*@
 	@Html.ValidationMessageFor(p => p.Name)
 	<br />	

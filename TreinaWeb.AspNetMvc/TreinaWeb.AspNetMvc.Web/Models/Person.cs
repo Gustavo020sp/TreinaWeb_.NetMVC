@@ -33,5 +33,7 @@ namespace TreinaWeb.AspNetMvc.Web.Models
 		[MinLength(5, ErrorMessage = "MIN 5 characters")]
 		[DataType(DataType.EmailAddress)]
 		public string Email { get; set; } = string.Empty;
+
+        //public bool Active { get; set; }
     }
 }
