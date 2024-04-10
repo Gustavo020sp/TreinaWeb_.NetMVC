@@ -16,8 +16,9 @@ namespace TreinaWeb.AspNetMvc.Web.Controllers
 		public IActionResult Index(Person person)
 		{
             //string name = person.Name;
-            ViewBag.Name = person.Name;
-			return View("Greetings");
+            //ViewBag.Name = person.Name;
+
+			return View("Greetings", person);
             //comment here
 		}
 	}

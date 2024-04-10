@@ -1,4 +1,4 @@
-﻿@model TreinaWeb.AspNetMvc.Web.Controllers.TesteController
+﻿@model TreinaWeb.AspNetMvc.Web.Models.Person
 
 @{
 	ViewData["Title"] = "Greetings!";
@@ -6,5 +6,6 @@
 <h2>@ViewData["Title"]</h2>
 <br />
 <br />
-<p>Hello and welcome, @ViewBag.Name</p>
+<p>Hello and welcome, @Model.Name</p>
+<p>Your age is: @Model.Age</p>
 

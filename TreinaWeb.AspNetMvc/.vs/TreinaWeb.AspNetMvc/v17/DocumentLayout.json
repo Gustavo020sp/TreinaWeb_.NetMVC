@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Projects\\TreinaWeb_.NetMVC\\TreinaWeb.AspNetMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|d:\\projects\\treinaweb_.netmvc\\treinaweb.aspnetmvc\\treinaweb.aspnetmvc.web\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|solutionrelative:treinaweb.aspnetmvc.web\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|d:\\projects\\treinaweb_.netmvc\\treinaweb.aspnetmvc\\treinaweb.aspnetmvc.web\\views\\teste\\greetings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|solutionrelative:treinaweb.aspnetmvc.web\\views\\teste\\greetings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|d:\\projects\\treinaweb_.netmvc\\treinaweb.aspnetmvc\\treinaweb.aspnetmvc.web\\controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|solutionrelative:treinaweb.aspnetmvc.web\\views\\teste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|d:\\projects\\treinaweb_.netmvc\\treinaweb.aspnetmvc\\treinaweb.aspnetmvc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|solutionrelative:treinaweb.aspnetmvc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|d:\\projects\\treinaweb_.netmvc\\treinaweb.aspnetmvc\\treinaweb.aspnetmvc.web\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|solutionrelative:treinaweb.aspnetmvc.web\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|d:\\projects\\treinaweb_.netmvc\\treinaweb.aspnetmvc\\treinaweb.aspnetmvc.web\\views\\teste\\greetings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|solutionrelative:treinaweb.aspnetmvc.web\\views\\teste\\greetings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|d:\\projects\\treinaweb_.netmvc\\treinaweb.aspnetmvc\\treinaweb.aspnetmvc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|solutionrelative:treinaweb.aspnetmvc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1C6DE00-875D-4CCD-9D96-548C9E8BD5C4}|TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj|d:\\projects\\treinaweb_.netmvc\\treinaweb.aspnetmvc\\treinaweb.aspnetmvc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Projects\\TreinaWeb_.NetMVC\\TreinaWeb.AspNetMvc\\TreinaWeb.AspNetMvc.Web\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "TreinaWeb.AspNetMvc.Web\\Views\\_ViewStart.cshtml",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\Projects\\TreinaWeb_.NetMVC\\TreinaWeb.AspNetMvc\\TreinaWeb.AspNetMvc.Web\\Models\\Person.cs",
               "RelativeDocumentMoniker": "TreinaWeb.AspNetMvc.Web\\Models\\Person.cs",
@@ -72,13 +72,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Greetings.cshtml",
               "DocumentMoniker": "D:\\Projects\\TreinaWeb_.NetMVC\\TreinaWeb.AspNetMvc\\TreinaWeb.AspNetMvc.Web\\Views\\Teste\\Greetings.cshtml",
               "RelativeDocumentMoniker": "TreinaWeb.AspNetMvc.Web\\Views\\Teste\\Greetings.cshtml",
               "ToolTip": "D:\\Projects\\TreinaWeb_.NetMVC\\TreinaWeb.AspNetMvc\\TreinaWeb.AspNetMvc.Web\\Views\\Teste\\Greetings.cshtml",
               "RelativeToolTip": "TreinaWeb.AspNetMvc.Web\\Views\\Teste\\Greetings.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-09T23:04:34.927Z",
               "EditorCaption": ""
@@ -91,7 +91,7 @@
               "RelativeDocumentMoniker": "TreinaWeb.AspNetMvc.Web\\Views\\Teste\\Index.cshtml",
               "ToolTip": "D:\\Projects\\TreinaWeb_.NetMVC\\TreinaWeb.AspNetMvc\\TreinaWeb.AspNetMvc.Web\\Views\\Teste\\Index.cshtml",
               "RelativeToolTip": "TreinaWeb.AspNetMvc.Web\\Views\\Teste\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAB3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-07T15:07:09.388Z",
               "EditorCaption": ""
@@ -104,7 +104,7 @@
               "RelativeDocumentMoniker": "TreinaWeb.AspNetMvc.Web\\Controllers\\TesteController.cs",
               "ToolTip": "D:\\Projects\\TreinaWeb_.NetMVC\\TreinaWeb.AspNetMvc\\TreinaWeb.AspNetMvc.Web\\Controllers\\TesteController.cs",
               "RelativeToolTip": "TreinaWeb.AspNetMvc.Web\\Controllers\\TesteController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T14:59:56.993Z",
               "EditorCaption": ""
