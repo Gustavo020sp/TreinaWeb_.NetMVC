@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Hv1StyouBFVuLHuBMxlGuam1s69pgGs4TK30OFSzHr8PZhSjR4TrMS5No1gSvyvZoaiklNNH/vB17Rdaebbe1A==",
+  "dgSpecHash": "RMBnooq/5PQZEU9kicuBseT/n5CMQHGKIWUr+3VNwGyqJOq7KrS4rbTeFtXsq3vZmzbwF3NPUNiXcijT9VCtDA==",
   "success": true,
   "projectFilePath": "D:\\Projects\\TreinaWeb_.NetMVC\\TreinaWeb.AspNetMvc\\TreinaWeb.AspNetMvc.Web\\TreinaWeb.AspNetMvc.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\stackexchange.redis\\2.7.33\\stackexchange.redis.2.7.33.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

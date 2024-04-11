@@ -29,3 +29,7 @@ D:\Projects\TreinaWeb_.NetMVC\TreinaWeb.AspNetMvc\TreinaWeb.AspNetMvc.Web\obj\De
 D:\Projects\TreinaWeb_.NetMVC\TreinaWeb.AspNetMvc\TreinaWeb.AspNetMvc.Web\obj\Debug\net6.0\TreinaWeb.AspNetMvc.Web.genruntimeconfig.cache
 D:\Projects\TreinaWeb_.NetMVC\TreinaWeb.AspNetMvc\TreinaWeb.AspNetMvc.Web\obj\Debug\net6.0\ref\TreinaWeb.AspNetMvc.Web.dll
 D:\Projects\TreinaWeb_.NetMVC\TreinaWeb.AspNetMvc\TreinaWeb.AspNetMvc.Web\obj\Debug\net6.0\TreinaWeb.AspNetMvc.Web.sourcelink.json
+D:\Projects\TreinaWeb_.NetMVC\TreinaWeb.AspNetMvc\TreinaWeb.AspNetMvc.Web\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\Projects\TreinaWeb_.NetMVC\TreinaWeb.AspNetMvc\TreinaWeb.AspNetMvc.Web\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\Projects\TreinaWeb_.NetMVC\TreinaWeb.AspNetMvc\TreinaWeb.AspNetMvc.Web\obj\Debug\net6.0\TreinaWeb.AspNetMvc.Web.csproj.AssemblyReference.cache
+D:\Projects\TreinaWeb_.NetMVC\TreinaWeb.AspNetMvc\TreinaWeb.AspNetMvc.Web\obj\Debug\net6.0\TreinaWe.1CFDF35A.Up2Date

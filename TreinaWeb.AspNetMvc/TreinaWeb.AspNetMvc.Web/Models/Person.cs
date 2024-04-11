@@ -31,7 +31,8 @@ namespace TreinaWeb.AspNetMvc.Web.Models
 		[DisplayName("Type person Email: ")]
 		[MaxLength(20, ErrorMessage = "MAX 20 characters")]
 		[MinLength(5, ErrorMessage = "MIN 5 characters")]
-		[DataType(DataType.EmailAddress)]
+		//[DataType(DataType.EmailAddress)]
+		[EmailAddress]
 		public string Email { get; set; } = string.Empty;
 
         //public bool Active { get; set; }
