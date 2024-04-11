@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using StackExchange.Redis;
 using TreinaWeb.AspNetMvc.Web.Models;
 
 namespace TreinaWeb.AspNetMvc.Web.Controllers
