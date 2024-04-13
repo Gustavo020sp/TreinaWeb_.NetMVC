@@ -8,7 +8,7 @@ namespace TreinaWeb.Musics.Domain
 {
 	public class Album
 	{
-        //POCO
+        //POCO (classe simples, não está acoplada com nenhum framework externo)
         public int Id { get; set; }
         public string Name { get; set; }
         public int Year { get; set; }

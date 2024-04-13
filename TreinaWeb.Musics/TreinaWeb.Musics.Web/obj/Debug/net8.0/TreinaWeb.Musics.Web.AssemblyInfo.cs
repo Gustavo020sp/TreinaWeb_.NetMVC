@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TreinaWeb.Musics.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fef5367e45d27574585611a321fc319bcd65fff9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62c385663edab42c3f78bc6ce02ffd83e577629c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TreinaWeb.Musics.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TreinaWeb.Musics.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
