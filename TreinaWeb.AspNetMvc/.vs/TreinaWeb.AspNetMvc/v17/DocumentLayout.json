@@ -46,8 +46,7 @@
               "RelativeToolTip": "TreinaWeb.AspNetMvc.Web\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T01:58:24.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T01:58:24.103Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "TreinaWeb.AspNetMvc.Web\\Models\\Person.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T01:31:52.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T01:31:52.297Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "TreinaWeb.AspNetMvc.Web\\Views\\Teste\\Greetings.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-09T23:04:34.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T23:04:34.927Z"
             },
             {
               "$type": "Document",
@@ -83,7 +80,7 @@
               "RelativeDocumentMoniker": "TreinaWeb.AspNetMvc.Web\\Views\\Teste\\Index.cshtml",
               "ToolTip": "D:\\Projects\\TreinaWeb_.NetMVC\\TreinaWeb.AspNetMvc\\TreinaWeb.AspNetMvc.Web\\Views\\Teste\\Index.cshtml",
               "RelativeToolTip": "TreinaWeb.AspNetMvc.Web\\Views\\Teste\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-07T15:07:09.388Z",
               "EditorCaption": ""
@@ -98,8 +95,7 @@
               "RelativeToolTip": "TreinaWeb.AspNetMvc.Web\\Controllers\\TesteController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T14:59:56.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T14:59:56.993Z"
             }
           ]
         }

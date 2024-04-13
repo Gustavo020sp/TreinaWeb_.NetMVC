@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\TreinaWeb_.NetMVC\\TreinaWeb.Musics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8520FB2-91F2-4815-A1CA-314BA5B287F1}|TreinaWeb.Musics.Domain\\TreinaWeb.Musics.Domain.csproj|d:\\projects\\treinaweb_.netmvc\\treinaweb.musics\\treinaweb.musics.domain\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8520FB2-91F2-4815-A1CA-314BA5B287F1}|TreinaWeb.Musics.Domain\\TreinaWeb.Musics.Domain.csproj|solutionrelative:treinaweb.musics.domain\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\Projects\\TreinaWeb_.NetMVC\\TreinaWeb.Musics\\TreinaWeb.Musics.Domain\\Album.cs",
+              "RelativeDocumentMoniker": "TreinaWeb.Musics.Domain\\Album.cs",
+              "ToolTip": "D:\\Projects\\TreinaWeb_.NetMVC\\TreinaWeb.Musics\\TreinaWeb.Musics.Domain\\Album.cs",
+              "RelativeToolTip": "TreinaWeb.Musics.Domain\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:05:34.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
